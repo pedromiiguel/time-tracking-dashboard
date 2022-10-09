@@ -1,3 +1,24 @@
+:root {
+  --background: #0E1323;
+  --orange: #FF8B64;
+  --cyan: #55C2E6;
+  --red: #FF5E7D;
+  --green: #4BCF82;
+  --purple-100: #BBC0FF;
+  --purple-200: #7078C9;
+  --purple-500: #5747EA;
+  --purple-700: #7335D2;
+  --yellow:  #F1C75B;
+  --card-background: #1C204B;
+  --white: #ffffff;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
 body {
   font-family: 'Rubik', sans-serif;
 }
